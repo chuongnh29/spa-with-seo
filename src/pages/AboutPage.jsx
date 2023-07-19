@@ -9,6 +9,7 @@ export const AboutPage = () => {
                 description="description for about page"
                 type="webapp"
                 name="Sachin Chaurasiya"
+                image="https://h2.gifposter.com/bingImages/HalfwayBoats_EN-US9913306071_1920x1080.jpg_mb"
             />
             <h1>About Page</h1>
             <h2>
